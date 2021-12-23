@@ -1,0 +1,7 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <circle id="bg" cx="20" cy="20" r="20" fill="#188fef"/>
+  <g id="icon-2" data-name="icon" transform="translate(7.273 7.273)">
+    <rect id="area" width="25.455" height="25.455" fill="none"/>
+    <path id="icon-3" data-name="icon" d="M9210.6,9481.479l7.24,7.238,12.744-12.744" transform="translate(-9207.865 -9469.616)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+  </g>
+</svg>

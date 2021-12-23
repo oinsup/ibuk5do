@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="134" viewBox="0 0 124 134">
+  <defs>
+    <filter id="shadow" x="0" y="0" width="124" height="134" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="사무국장" transform="translate(12 4)">
+    <g transform="matrix(1, 0, 0, 1, -12, -4)" filter="url(#shadow)">
+      <path id="shadow-2" data-name="shadow" d="M345.5,859.533v40.332a14.646,14.646,0,0,0,7.394,12.7l35.213,20.166a14.892,14.892,0,0,0,14.787,0l35.213-20.166a14.646,14.646,0,0,0,7.394-12.7V859.533a14.646,14.646,0,0,0-7.394-12.7l-35.213-20.166a14.892,14.892,0,0,0-14.787,0L352.894,846.83A14.646,14.646,0,0,0,345.5,859.533Z" transform="translate(-333.5 -820.7)" fill="#003764"/>
+    </g>
+    <path id="bg" d="M345.5,859.533v40.332a14.646,14.646,0,0,0,7.394,12.7l35.213,20.166a14.892,14.892,0,0,0,14.787,0l35.213-20.166a14.646,14.646,0,0,0,7.394-12.7V859.533a14.646,14.646,0,0,0-7.394-12.7l-35.213-20.166a14.892,14.892,0,0,0-14.787,0L352.894,846.83A14.646,14.646,0,0,0,345.5,859.533Z" transform="translate(-345.5 -824.699)" fill="#188fef"/>
+    <g id="_" data-name="&gt;" transform="translate(38 76)">
+      <g id="bg-2" data-name="bg" fill="#fff" stroke="#d0d5d5" stroke-width="1">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="11.5" fill="none"/>
+      </g>
+      <g id="icon" transform="translate(24) rotate(90)">
+        <rect id="area" width="24" height="24" fill="none"/>
+        <path id="패스_250" data-name="패스 250" d="M0,3.12,3.12,0,6.24,3.12" transform="translate(8.88 10.44)" fill="none" stroke="#003764" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

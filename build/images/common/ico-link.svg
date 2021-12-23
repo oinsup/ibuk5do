@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="icon" transform="translate(-9447 -7937)">
+    <g id="bg" transform="translate(9447 7937)" fill="#fff" stroke="#cacaca" stroke-width="1">
+      <rect width="20" height="20" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="19" rx="2.5" fill="none"/>
+    </g>
+    <g id="icon-2" data-name="icon">
+      <rect id="area" width="20" height="20" transform="translate(9447 7937)" fill="none"/>
+      <rect id="사각형_24192" data-name="사각형 24192" width="8" height="2" transform="translate(9453 7943)" fill="#999"/>
+      <rect id="사각형_24193" data-name="사각형 24193" width="8" height="2" transform="translate(9459 7951) rotate(-90)" fill="#999"/>
+      <rect id="사각형_24194" data-name="사각형 24194" width="10" height="2" transform="translate(9452.515 7950.071) rotate(-45)" fill="#999"/>
+    </g>
+  </g>
+</svg>

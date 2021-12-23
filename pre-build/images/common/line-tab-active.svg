@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="20.5" viewBox="0 0 100 20.5">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dae2e2"/>
+      <stop offset="0.481" stop-color="#e4032e"/>
+      <stop offset="1" stop-color="#dae2e2"/>
+    </linearGradient>
+    <filter id="타원_80" x="40.5" y="1.5" width="19" height="19" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="line-tab-active" transform="translate(-918 -357)">
+    <rect id="line" width="100" height="1" transform="translate(918 365)" fill="url(#linear-gradient)"/>
+    <g id="타원_81" data-name="타원 81" transform="translate(960 357)" fill="none" stroke="#e4032e" stroke-width="1" opacity="0.2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7.5" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 918, 357)" filter="url(#타원_80)">
+      <circle id="타원_80-2" data-name="타원 80" cx="5" cy="5" r="5" transform="translate(45 3)" fill="#e4032e"/>
+    </g>
+  </g>
+</svg>

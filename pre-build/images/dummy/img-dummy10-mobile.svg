@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="654" height="2908" viewBox="0 0 654 2908">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_24140" data-name="사각형 24140" width="89.366" height="101.053" fill="none" stroke="#188fef" stroke-width="3"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="사각형_24142" data-name="사각형 24142" width="80" height="101.053" fill="none" stroke="#188fef" stroke-width="3"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dae2e2"/>
+      <stop offset="0.481" stop-color="#e4032e"/>
+      <stop offset="1" stop-color="#dae2e2"/>
+    </linearGradient>
+    <filter id="타원_80" x="67.5" y="68.5" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="img-dummy10-mobile" transform="translate(-36 -340)">
+    <g id="BODY" transform="translate(-648 33)">
+      <g id="_9" data-name="9" transform="translate(-324 1830)">
+        <rect id="bg" width="130" height="80" transform="translate(1008 916)" fill="#97a0aa"/>
+        <text id="전화문의" transform="translate(1073 969)" fill="#fff" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-52.95" y="0">전화문의</tspan></text>
+        <g id="list">
+          <g id="list-2" data-name="list" transform="translate(1020 1016)">
+            <text id="_02-2287-2605" data-name="02-2287-2605" transform="translate(198 3)" fill="#97a0aa" font-size="30" font-family="Roboto-Regular, Roboto"><tspan x="0" y="29">02-2287-2605</tspan></text>
+            <circle id="타원_56" data-name="타원 56" cx="9" cy="9" r="9" transform="translate(-12 13)" fill="#188fef"/>
+            <text id="황해도" transform="translate(16)" font-size="30" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-weight="500" letter-spacing="-0.05em"><tspan x="0" y="35">황해도</tspan></text>
+          </g>
+          <g id="list-3" data-name="list" transform="translate(1020 1070)">
+            <text id="_02-2287-2625" data-name="02-2287-2625" transform="translate(198 3)" fill="#97a0aa" font-size="30" font-family="Roboto-Regular, Roboto"><tspan x="0" y="29">02-2287-2625</tspan></text>
+            <circle id="타원_56-2" data-name="타원 56" cx="9" cy="9" r="9" transform="translate(-12 13)" fill="#188fef"/>
+            <text id="평안남도" transform="translate(16)" font-size="30" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-weight="500" letter-spacing="-0.05em"><tspan x="0" y="35">평안남도</tspan></text>
+          </g>
+          <g id="list-4" data-name="list" transform="translate(1020 1124)">
+            <text id="_02-2287-2645" data-name="02-2287-2645" transform="translate(198 3)" fill="#97a0aa" font-size="30" font-family="Roboto-Regular, Roboto"><tspan x="0" y="29">02-2287-2645</tspan></text>
+            <circle id="타원_56-3" data-name="타원 56" cx="9" cy="9" r="9" transform="translate(-12 13)" fill="#188fef"/>
+            <text id="평안북도" transform="translate(16)" font-size="30" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-weight="500" letter-spacing="-0.05em"><tspan x="0" y="35">평안북도</tspan></text>
+          </g>
+          <g id="list-5" data-name="list" transform="translate(1020 1178)">
+            <text id="_02-2287-2665" data-name="02-2287-2665" transform="translate(198 3)" fill="#97a0aa" font-size="30" font-family="Roboto-Regular, Roboto"><tspan x="0" y="29">02-2287-2665</tspan></text>
+            <circle id="타원_56-4" data-name="타원 56" cx="9" cy="9" r="9" transform="translate(-12 13)" fill="#188fef"/>
+            <text id="함경남도" transform="translate(16)" font-size="30" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-weight="500" letter-spacing="-0.05em"><tspan x="0" y="35">함경남도</tspan></text>
+          </g>
+          <g id="list-6" data-name="list" transform="translate(1020 1232)">
+            <text id="_02-2287-2685" data-name="02-2287-2685" transform="translate(198 3)" fill="#97a0aa" font-size="30" font-family="Roboto-Regular, Roboto"><tspan x="0" y="29">02-2287-2685</tspan></text>
+            <circle id="타원_56-5" data-name="타원 56" cx="9" cy="9" r="9" transform="translate(-12 13)" fill="#188fef"/>
+            <text id="함경북도" transform="translate(16)" font-size="30" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-weight="500" letter-spacing="-0.05em"><tspan x="0" y="35">함경북도</tspan></text>
+          </g>
+          <g id="list-7" data-name="list" transform="translate(1020 1286)">
+            <text id="_02-2287-2665-2" data-name="02-2287-2665" transform="translate(198 3)" fill="#97a0aa" font-size="30" font-family="Roboto-Regular, Roboto"><tspan x="0" y="29">02-2287-2665</tspan></text>
+            <circle id="타원_56-6" data-name="타원 56" cx="9" cy="9" r="9" transform="translate(-12 13)" fill="#188fef"/>
+            <text id="미수복경기도" transform="translate(16)" font-size="30" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-weight="500" letter-spacing="-0.05em"><tspan x="0" y="35">미수복경기도</tspan></text>
+          </g>
+          <g id="list-8" data-name="list" transform="translate(1020 1340)">
+            <text id="_02-2287-2665-3" data-name="02-2287-2665" transform="translate(198 3)" fill="#97a0aa" font-size="30" font-family="Roboto-Regular, Roboto"><tspan x="0" y="29">02-2287-2665</tspan></text>
+            <circle id="타원_56-7" data-name="타원 56" cx="9" cy="9" r="9" transform="translate(-12 13)" fill="#188fef"/>
+            <text id="미수복강원도" transform="translate(16)" font-size="30" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-weight="500" letter-spacing="-0.05em"><tspan x="0" y="35">미수복강원도</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="_8" data-name="8" transform="translate(-324 1710)">
+        <rect id="bg-2" data-name="bg" width="130" height="80" transform="translate(1008 916)" fill="#97a0aa"/>
+        <text id="담당부서" transform="translate(1073 969)" fill="#fff" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-52.95" y="0">담당부서</tspan></text>
+        <text id="각도_사무국" data-name="각도 사무국" transform="translate(1148 934)" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="35">각도 사무국</tspan></text>
+      </g>
+      <g id="_7" data-name="7" transform="translate(-324 1590)">
+        <rect id="bg-3" data-name="bg" width="130" height="80" transform="translate(1008 916)" fill="#97a0aa"/>
+        <text id="관련법규" transform="translate(1073 969)" fill="#fff" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-52.95" y="0">관련법규</tspan></text>
+        <text id="이북5도_민원사무처리규칙_제3조" data-name="이북5도 민원사무처리규칙 제3조" transform="translate(1148 934)" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="35">이북5도 민원사무처리규칙 제3조</tspan></text>
+      </g>
+      <g id="_6" data-name="6" transform="translate(-324 946)">
+        <rect id="bg-4" data-name="bg" width="130" height="80" transform="translate(1008 916)" fill="#97a0aa"/>
+        <text id="구비서류" transform="translate(1073 969)" fill="#fff" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-52.95" y="0">구비서류</tspan></text>
+        <text id="_1._재적확인신청서_보증인_2인의_보증_2._무적증명서_거주지_시.구.읍.면_발행_3._주민등록신고확인서_거주지_읍.면.동장_발행_4._보증인의_기본증명서_제적등본_신분증_사본_자필서명_5._무적사유서_신청인의_작성_" data-name="1. 재적확인신청서 (보증인 2인의 보증)
+2. 무적증명서 (거주지 시.구.읍.면 발행)
+3. 주민등록신고확인서 (거주지 읍.면.동장 발행)
+4. 보증인의 기본증명서, 제적등본, 신분증 사본(자필서명)
+5. 무적사유서 (신청인의 작성)" transform="translate(1008 1016)" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="35">1. 재적확인신청서 (보증인 2인의 보증)</tspan><tspan x="0" y="80">2. 무적증명서 (거주지 시.구.읍.면 발행)</tspan><tspan x="0" y="125">3. 주민등록신고확인서 (거주지 읍.면.동장 발행)</tspan><tspan x="0" y="170">4. 보증인의 기본증명서, 제적등본, 신분증 사본(자필서</tspan><tspan x="0" y="215">명)</tspan><tspan x="0" y="260">5. 무적사유서 (신청인의 작성)</tspan></text>
+        <text id="_보증인은_원적지_시.읍.면이_동일하고_1935.12.31이전_출생자로_하여야_한다._다만_지방거주자로서_원적지_시.읍.면이_동일한_보증인을_얻기_곤란한_경우에는_원적지_시.군이_동일한_자를_보증인으로_할_수_있다." data-name="※ 보증인은 원적지 시.읍.면이 동일하고 1935.12.31이전 출생자로 하여야 한다. 
+다만, 지방거주자로서 원적지 시.읍.면이 동일한 보증인을 얻기 곤란한 경우에는 원적지 시.군이 동일한 자를 보증인으로 할 수 있다." transform="translate(1008 1300)" fill="#97a0aa" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="35">※ 보증인은 원적지 시.읍.면이 동일하고 1935.12.31이전 </tspan><tspan x="0" y="79">출생자로 하여야 한다. </tspan><tspan x="0" y="123">다만, 지방거주자로서 원적지 시.읍.면이 동일한 보증인을 </tspan><tspan x="0" y="167">얻기 곤란한 경우에는 원적지 시.군이 동일한 자를 보증인</tspan><tspan x="0" y="211">으로 할 수 있다.</tspan></text>
+      </g>
+      <g id="_5" data-name="5" transform="translate(-324 42)">
+        <rect id="bg-5" data-name="bg" width="130" height="80" transform="translate(1008 916)" fill="#97a0aa"/>
+        <text id="처리절차" transform="translate(1073 969)" fill="#fff" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-52.95" y="0">처리절차</tspan></text>
+        <g id="인포그래픽" transform="translate(478 313)">
+          <g id="사각형_24139" data-name="사각형 24139" transform="translate(530 703)" fill="none" stroke="#dae2e2" stroke-width="1">
+            <rect width="648" height="764" stroke="none"/>
+            <rect x="0.5" y="0.5" width="647" height="763" fill="none"/>
+          </g>
+          <g id="icon" transform="translate(861 836) rotate(90)">
+            <path id="패스_250" data-name="패스 250" d="M0,14,10,0,20,14" fill="#003764"/>
+          </g>
+          <g id="icon-2" data-name="icon" transform="translate(1028 1112) rotate(180)">
+            <path id="패스_250-2" data-name="패스 250" d="M0,14,10,0,20,14" fill="#003764"/>
+          </g>
+          <g id="icon-3" data-name="icon" transform="translate(847 1252) rotate(-90)">
+            <path id="패스_250-3" data-name="패스 250" d="M0,14,10,0,20,14" fill="#003764"/>
+          </g>
+          <g id="_4" data-name="4" transform="translate(-7 26)">
+            <g id="그룹_18675" data-name="그룹 18675" transform="translate(-875 634)">
+              <text id="민원발급" transform="translate(1519 723)" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="35">민원발급</tspan></text>
+              <g id="타원_98" data-name="타원 98" transform="translate(1564 702)" fill="#f5fbfb" stroke="#188fef" stroke-width="4">
+                <circle cx="8" cy="8" r="8" stroke="none"/>
+                <circle cx="8" cy="8" r="6" fill="none"/>
+              </g>
+            </g>
+            <g id="img" transform="translate(597 1116)">
+              <circle id="타원_103" data-name="타원 103" cx="100" cy="100" r="100" fill="#fff"/>
+              <g id="그룹_18685" data-name="그룹 18685" transform="translate(54.465 50.573)">
+                <g id="그룹_18682" data-name="그룹 18682">
+                  <g id="그룹_18681" data-name="그룹 18681" clip-path="url(#clip-path)">
+                    <path id="패스_8621" data-name="패스 8621" d="M152.994,143.662H90.206V61.389h54.127l8.661,8.66Z" transform="translate(-65.793 -44.775)" fill="none" stroke="#188fef" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="패스_8622" data-name="패스 8622" d="M22.339,97.015l-3.985.506L8,15.9,70.288,8l.988,7.787" transform="translate(-5.835 -5.835)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  </g>
+                </g>
+                <g id="그룹_18684" data-name="그룹 18684">
+                  <g id="그룹_18683" data-name="그룹 18683" clip-path="url(#clip-path)">
+                    <ellipse id="타원_104" data-name="타원 104" cx="6.495" cy="7.578" rx="6.495" ry="7.578" transform="translate(37.404 38.265)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="패스_8624" data-name="패스 8624" d="M130.206,203.884c0-3.587,3.877-6.5,8.66-6.5s8.66,2.908,8.66,6.5" transform="translate(-94.968 -143.968)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <line id="선_315" data-name="선 315" x2="15.156" transform="translate(61.22 42.595)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <line id="선_316" data-name="선 316" x2="15.156" transform="translate(61.22 51.256)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <line id="선_317" data-name="선 317" x2="15.156" transform="translate(61.22 59.916)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <line id="선_318" data-name="선 318" x2="41.137" transform="translate(35.238 68.576)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <line id="선_319" data-name="선 319" x2="21.651" transform="translate(35.238 77.237)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="_3" data-name="3" transform="translate(10 26)">
+            <g id="그룹_18674" data-name="그룹 18674" transform="translate(-246 634)">
+              <text id="내부결재" transform="translate(1201 723)" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="35">내부결재</tspan></text>
+              <g id="타원_95" data-name="타원 95" transform="translate(1246 702)" fill="#f5fbfb" stroke="#188fef" stroke-width="4">
+                <circle cx="8" cy="8" r="8" stroke="none"/>
+                <circle cx="8" cy="8" r="6" fill="none"/>
+              </g>
+            </g>
+            <g id="img-2" data-name="img" transform="translate(908 1116)">
+              <circle id="타원_102" data-name="타원 102" cx="100" cy="100" r="100" fill="#fff"/>
+              <g id="그룹_18687" data-name="그룹 18687" transform="translate(60.632 50.573)">
+                <g id="그룹_18686" data-name="그룹 18686" clip-path="url(#clip-path-3)">
+                  <path id="패스_8625" data-name="패스 8625" d="M120,319.158v-8.421s6.316-4.737,6.316-10.526V296" transform="translate(-88.421 -218.105)" fill="none" stroke="#188fef" stroke-miterlimit="10" stroke-width="3"/>
+                  <path id="패스_8626" data-name="패스 8626" d="M40,238.291l16.842-16.842c3.877-3.877,9.167,5.57,4.211,10.526l-4.211,4.211V240.4a10.468,10.468,0,0,1-8.74,10.526" transform="translate(-29.474 -162.502)" fill="none" stroke="#188fef" stroke-miterlimit="10" stroke-width="3"/>
+                  <path id="패스_8627" data-name="패스 8627" d="M22.737,200,12.211,210.526C10.105,212.632,8,214.737,8,218.947v12.608l0,16.866" transform="translate(-5.895 -147.369)" fill="none" stroke="#188fef" stroke-miterlimit="10" stroke-width="3"/>
+                  <path id="패스_8628" data-name="패스 8628" d="M74.526,83.789h50.526V8H64V75.368" transform="translate(-47.158 -5.895)" fill="none" stroke="#188fef" stroke-linejoin="round" stroke-width="3"/>
+                  <ellipse id="타원_105" data-name="타원 105" cx="6.316" cy="7.368" rx="6.316" ry="7.368" transform="translate(29.474 12.631)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  <path id="패스_8629" data-name="패스 8629" d="M104,110.316c0-3.488,3.77-6.316,8.421-6.316s8.421,2.828,8.421,6.316" transform="translate(-76.632 -76.632)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  <line id="선_320" data-name="선 320" x2="14.737" transform="translate(52.631 16.842)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  <line id="선_321" data-name="선 321" x2="14.737" transform="translate(52.631 25.263)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  <line id="선_322" data-name="선 322" x2="14.737" transform="translate(52.631 33.684)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  <line id="선_323" data-name="선 323" x2="40" transform="translate(27.368 42.105)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  <line id="선_324" data-name="선 324" x2="27.368" transform="translate(40 50.526)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="_2" data-name="2" transform="translate(10 12)">
+            <g id="그룹_18673" data-name="그룹 18673" transform="translate(72 249)">
+              <text id="민원구비서류_검토" data-name="민원구비서류 검토" transform="translate(872 723)" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-52.95" y="35">민원구비</tspan><tspan x="-55.56" y="75">서류 검토</tspan></text>
+              <g id="타원_96" data-name="타원 96" transform="translate(928 702)" fill="#f5fbfb" stroke="#188fef" stroke-width="4">
+                <circle cx="8" cy="8" r="8" stroke="none"/>
+                <circle cx="8" cy="8" r="6" fill="none"/>
+              </g>
+            </g>
+            <g id="img-3" data-name="img" transform="translate(908 731)">
+              <circle id="타원_101" data-name="타원 101" cx="100" cy="100" r="100" fill="#fff"/>
+              <g id="그룹_18679" data-name="그룹 18679" transform="translate(52.629 52.675)">
+                <path id="패스_8616" data-name="패스 8616" d="M86.526,144C80.661,144,76,147.6,76,157.683s4.661,13.684,10.526,13.685,10.526-3.6,10.526-13.685S92.392,144,86.526,144Z" transform="translate(-58.103 -108.211)" fill="none" stroke="#188fef" stroke-miterlimit="10" stroke-width="3"/>
+                <line id="선_312" data-name="선 312" x2="4.211" transform="translate(11.581 86.316)" fill="none" stroke="#188fef" stroke-miterlimit="10" stroke-width="3"/>
+                <path id="패스_8617" data-name="패스 8617" d="M27.635,228.964s-6.632,3.154-9.009,4.344-3.348,4.332-4.233,6.534-6.084,17.531-6.084,17.531a4.586,4.586,0,0,0,1.82,5.463l7.345,4.823h8.421c6.944,0,6.944-10.526,0-10.526H23.79V242.395H36.421" transform="translate(-8 -170.815)" fill="none" stroke="#188fef" stroke-miterlimit="10" stroke-width="3"/>
+                <path id="패스_8618" data-name="패스 8618" d="M124.786,228.964s6.632,3.154,9.009,4.344,3.348,4.332,4.233,6.534,6.084,17.531,6.084,17.531a4.586,4.586,0,0,1-1.82,5.463l-7.345,4.823h-8.421c-6.945,0-6.945-10.526,0-10.526h2.105V242.395H116" transform="translate(-87.579 -170.815)" fill="none" stroke="#188fef" stroke-miterlimit="10" stroke-width="3"/>
+                <line id="선_313" data-name="선 313" x1="4.211" transform="translate(41.052 86.316)" fill="none" stroke="#188fef" stroke-miterlimit="10" stroke-width="3"/>
+                <path id="패스_8619" data-name="패스 8619" d="M180,14.316V45.895a6.316,6.316,0,0,0,6.316,6.316h4.211V63.97a2.105,2.105,0,0,0,3.594,1.489l11.143-13.248h18.947a6.316,6.316,0,0,0,6.316-6.316V14.316A6.316,6.316,0,0,0,224.211,8H186.316A6.316,6.316,0,0,0,180,14.316Z" transform="translate(-134.736 -8)" fill="none" stroke="#188fef" stroke-miterlimit="10" stroke-width="3"/>
+                <line id="선_314" data-name="선 314" x2="21.053" transform="translate(17.897 96.842)" fill="none" stroke="#188fef" stroke-miterlimit="10" stroke-width="3"/>
+                <ellipse id="타원_99" data-name="타원 99" cx="6.316" cy="7.368" rx="6.316" ry="7.368" transform="translate(64.212 12.632)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                <path id="패스_8620" data-name="패스 8620" d="M244,118.316c0-3.488,3.77-6.316,8.421-6.316s8.421,2.828,8.421,6.316" transform="translate(-181.892 -84.632)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+              </g>
+            </g>
+          </g>
+          <g id="_1" data-name="1" transform="translate(-7 12)">
+            <g id="그룹_18672" data-name="그룹 18672" transform="translate(23 115)">
+              <text id="민원신청" transform="translate(624 857)" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="35">민원신청</tspan></text>
+              <g id="타원_97" data-name="타원 97" transform="translate(669 836)" fill="#f5fbfb" stroke="#188fef" stroke-width="4">
+                <circle cx="8" cy="8" r="8" stroke="none"/>
+                <circle cx="8" cy="8" r="6" fill="none"/>
+              </g>
+            </g>
+            <g id="img-4" data-name="img" transform="translate(599 734)">
+              <circle id="타원_100" data-name="타원 100" cx="100" cy="100" r="100" fill="#fff"/>
+              <g id="그룹_18677" data-name="그룹 18677" transform="translate(50.388 56.705)">
+                <path id="패스_8612" data-name="패스 8612" d="M97.3,35.551V9.968A1.968,1.968,0,0,1,99.268,8h51.167l11.808,11.808V92.622a1.968,1.968,0,0,1-1.968,1.968H99.268A1.968,1.968,0,0,1,97.3,92.622V70.975" transform="translate(-75.333 -8)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                <path id="패스_8613" data-name="패스 8613" d="M313.172,39.872H305.3V32" transform="translate(-232.165 -26.096)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                <path id="패스_8614" data-name="패스 8614" d="M61.237,154.484h0a38.466,38.466,0,0,0-10.282-18.551L17.64,102.62a4.678,4.678,0,0,0-6.616,0l-1.654,1.654a4.678,4.678,0,0,0,0,6.615L42.685,144.2A38.469,38.469,0,0,0,61.237,154.484Z" transform="translate(-8 -78.311)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                <path id="패스_8615" data-name="패스 8615" d="M32.74,126.988l-9.923,9.923a4.678,4.678,0,0,0,0,6.615l9.923,9.923" transform="translate(-18.139 -97.717)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                <line id="선_311" data-name="선 311" x1="8.269" y2="8.269" transform="translate(22.725 45.661)" fill="none" stroke="#188fef" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="_4-2" data-name="4" transform="translate(0 -78)">
+        <rect id="bg-6" data-name="bg" width="130" height="80" transform="translate(1008 916)" fill="#97a0aa"/>
+        <text id="수수료" transform="translate(1073 969)" fill="#fff" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-39.9" y="0">수수료</tspan></text>
+        <text id="무료" transform="translate(1148 934)" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="35">무료</tspan></text>
+      </g>
+      <g id="_3-2" data-name="3" transform="translate(-324 -78)">
+        <rect id="bg-7" data-name="bg" width="130" height="80" transform="translate(1008 916)" fill="#97a0aa"/>
+        <text id="처리시기" transform="translate(1073 969)" fill="#fff" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-52.95" y="0">처리시기</tspan></text>
+        <text id="_3일_이내" data-name="3일 이내" transform="translate(1148 934)" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="35">3일 이내</tspan></text>
+      </g>
+      <g id="_2-2" data-name="2" transform="translate(0 -198)">
+        <rect id="bg-8" data-name="bg" width="130" height="80" transform="translate(1008 916)" fill="#97a0aa"/>
+        <text id="신청방법" transform="translate(1073 969)" fill="#fff" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-52.95" y="0">신청방법</tspan></text>
+        <text id="방문" transform="translate(1148 934)" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="35">방문</tspan></text>
+      </g>
+      <g id="_1-2" data-name="1" transform="translate(-324 -198)">
+        <rect id="bg-9" data-name="bg" width="130" height="80" transform="translate(1008 916)" fill="#97a0aa"/>
+        <text id="소관부처" transform="translate(1073 969)" fill="#fff" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-52.95" y="0">소관부처</tspan></text>
+        <text id="이북5도위원회" transform="translate(1148 934)" font-size="30" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="35">이북5도위원회</tspan></text>
+      </g>
+      <text id="미수복지_이북도민_출신으로서_월남하여_지금까지_호적이_없이_생활하신_분들이_호적_을_새로_취적하실_때_이북도민_출신임을_확인_하여_주는_서류입니다." data-name="미수복지 이북도민 출신으로서 월남하여 
+지금까지 호적이 없이 생활하신 분들이 호적
+을 새로 취적하실 때, 이북도민 출신임을 확인
+하여 주는 서류입니다." transform="translate(684 492)" font-size="38" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="0">미수복지 이북도민 출신으로서 월남하여 </tspan><tspan x="0" y="56">지금까지 호적이 없이 생활하신 분들이 호적</tspan><tspan x="0" y="112">을 새로 취적하실 때, </tspan><tspan y="112" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700">이북도민 출신임을 확인</tspan><tspan font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700"><tspan x="0" y="168">하여 주는 서류</tspan><tspan y="168" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-weight="400">입니다.</tspan></tspan></text>
+      <g id="tab" transform="translate(0 10)">
+        <rect id="area" width="648" height="80" transform="translate(684 297)" fill="none"/>
+        <rect id="line" width="648" height="2" transform="translate(684 375)" fill="#dae2e2"/>
+        <g id="select" transform="translate(-213 6)">
+          <rect id="line-2" data-name="line" width="120" height="2" transform="translate(918 369)" fill="url(#linear-gradient)"/>
+          <g id="타원_81" data-name="타원 81" transform="translate(965 357)" fill="none" stroke="#e4032e" stroke-width="2" opacity="0.2">
+            <circle cx="13" cy="13" r="13" stroke="none"/>
+            <circle cx="13" cy="13" r="12" fill="none"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 897, 291)" filter="url(#타원_80)">
+            <circle id="타원_80-2" data-name="타원 80" cx="9" cy="9" r="9" transform="translate(72 70)" fill="#e4032e"/>
+          </g>
+        </g>
+        <text id="경력인증" transform="translate(1170 319)" font-size="24" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-42.36" y="28">경력인증</tspan></text>
+        <text id="학력보증" transform="translate(1008 319)" font-size="24" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-42.36" y="28">학력보증</tspan></text>
+        <text id="잔류자확인" transform="translate(846 319)" font-size="24" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="-52.8" y="28">잔류자확인</tspan></text>
+        <text id="재적확인" transform="translate(684 319)" fill="#e4032e" font-size="24" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-weight="500" letter-spacing="-0.05em"><tspan x="-42.36" y="28">재적확인</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

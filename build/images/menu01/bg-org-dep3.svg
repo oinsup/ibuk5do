@@ -1,0 +1,13 @@
+<svg id="사무국장" xmlns="http://www.w3.org/2000/svg" width="100" height="110" viewBox="0 0 100 110">
+  <path id="bg" d="M345.5,859.533v40.332a14.646,14.646,0,0,0,7.394,12.7l35.213,20.166a14.892,14.892,0,0,0,14.787,0l35.213-20.166a14.646,14.646,0,0,0,7.394-12.7V859.533a14.646,14.646,0,0,0-7.394-12.7l-35.213-20.166a14.892,14.892,0,0,0-14.787,0L352.894,846.83A14.646,14.646,0,0,0,345.5,859.533Z" transform="translate(-345.5 -824.699)" fill="#188fef"/>
+  <g id="_" data-name="&gt;" transform="translate(38 76)">
+    <g id="bg-2" data-name="bg" fill="#188fef" stroke="#d0d5d5" stroke-width="1">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="11.5" fill="none"/>
+    </g>
+    <g id="icon" transform="translate(24) rotate(90)">
+      <rect id="area" width="24" height="24" fill="none"/>
+      <path id="패스_250" data-name="패스 250" d="M0,3.12,3.12,0,6.24,3.12" transform="translate(8.88 10.44)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

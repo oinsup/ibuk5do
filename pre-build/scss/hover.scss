@@ -1,0 +1,345 @@
+@charset "utf-8";
+
+@media (hover:hover){
+  #header{
+    #gnb{
+      &:hover{
+        .dep2{max-height:600px;padding:25px 40px;}
+      }
+      ul{
+        li{
+          >span,>a{
+            &.link:hover{background-image:url("../images/common/ico-link-hover.svg")}
+            &:hover{
+              &:before{width:100%;background: #E4032E;}
+            }
+          }
+        }
+      }
+      .dep2{
+        >li{
+          &.hasDep{
+            >a{
+              &:hover{
+                .box{
+                  &:before{background:#E4032E; }
+                  &:after{transform:translate(-50%,-50%) rotate(-90deg);opacity:0;background:#E4032E;}
+                }
+              }
+            }
+          }
+          >span,>a{
+            &:hover{color:#E4032E;}
+          }
+        }
+      }
+      .dep3{
+        >li{
+          >span,>a{
+            &:hover{
+              &:before{background-color:#575757;}
+            }
+          }
+        }
+      }
+    }
+    .btnGroup{
+      .btnSitemap:hover{
+        .line{
+          &:first-of-type{width:100%;}
+          &:nth-of-type(3){width:50%;}
+        }
+      }
+    }
+  }
+  #lnb{
+    .dep1{
+      li{
+        &:hover{font-family:'Noto Sans Bold';color:#000;
+          a.link{background-image:url("../images/common/ico-link-hover.svg");}
+        }
+        &.active{
+          &:hover{color:#E4032E}
+        }
+        &.hasDep{
+          .box{
+            &:hover{
+              &:before{background:#E4032E; }
+              &:after{transform:translate(-50%,-50%) rotate(-90deg);opacity:0;background:#E4032E;}
+            }
+          }
+        }
+        .dep2{
+          li{
+            &:hover{background: #DAE2E2;}
+            &.active{
+              &:hover{background:#E4032E;}
+            }
+          }
+        }
+      }
+    }
+  }
+  #footer{
+    .btnTop:hover{background-color: #222222}
+    .comboBox{
+      ul{
+        li{
+          a{
+            &:hover{color:#fff;text-decoration:underline;}
+          }
+        }
+      }
+    }
+    .social{
+      .btnSocial{
+        &:hover{background-color:#003764;}
+      }
+    }
+  }
+  .visual{
+    .noticeWrap{
+      .noticeBox{
+        .board{
+          ul{
+            li{
+              a{
+                &:hover{text-decoration:underline;color:#fff;}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  .quickArea{
+    .round{
+      &:hover{box-shadow:0 8px 8px rgba(0,0,0,.16);
+        >span{
+          &.left:before{transform:rotate(0);transition:.3s .3s linear;}
+          &.right:before{transform:rotate(360deg);transition:.3s linear;;}
+        }
+      }
+      &.type01{
+        a{
+          &:hover{background-image: url("../images/main/ico-quick-01-hover.svg");}
+        }
+      }
+      &.type02{
+        a{
+          &:hover{background-image: url("../images/main/ico-quick-02-hover.svg");}
+        }
+      }
+      &.type03{
+        a{
+          &:hover{background-image: url("../images/main/ico-quick-03-hover.svg");}
+        }
+      }
+      &.type04{
+        a{
+          &:hover{background-image: url("../images/main/ico-quick-04-hover.svg");}
+        }
+      }
+    }
+  }
+  .slideArea{
+    .controlGroup{
+      a{
+        &:hover{background-color: #003764;}
+      }
+      button{
+        &:hover{background-color: #003764;}
+      }
+    }
+  }
+  .introArea{
+
+    .swiper{
+      .swiper-button-prev{background-image:url("../images/main/ico-swiper-prev-hover.svg");}
+      .swiper-button-next{background-image:url("../images/main/ico-swiper-next-hover.svg");}
+    }
+    .swiper-slide{width:329px;
+      &:hover{box-shadow:0 8px 10px rgba(0,0,0,.3);
+        >span{
+          &:first-of-type{left:0;top:0;transition:.3s;width:100%;}
+          &:nth-of-type(2){right:0;bottom:0;transition:.3s;width:100%}
+          &:nth-of-type(3){right:0;top:0;transition:.3s .3s;height:100%}
+          &:nth-of-type(4){left:0;bottom:0;transition:.3s .3s;height:100%;}
+        }
+        img{transform: translate(-50%,-50%) scale(1.2);}
+        .txtBox{height:calc(100% - 290px);top:290px;
+          .tit:after{visibility:hidden;opacity:0;}
+          >.inner{padding-top:79px;}
+          p{visibility:hidden;opacity:0;}
+        }
+      }
+    }
+  }
+  .table{
+    &.type01{
+      table{
+        tbody{
+          tr:hover{
+            td{
+              &.title{color: #188FEF;}
+            }
+          }
+        }
+      }
+    }
+  }
+  .pagination{
+    .btnPagi:hover{background-color: #003764;border: 1px solid #003764;
+      &.prev{background-image:url("../images/common/ico-arrow-prev-hover.svg");}
+      &.next{background-image:url("../images/common/ico-arrow-next-hover.svg");}
+      &.first{background-image:url("../images/common/ico-arrow-first-hover.svg");}
+      &.last{background-image:url("../images/common/ico-arrow-last-hover.svg");}
+    }
+  }
+  .tabContWrap{
+    &.type02{
+      .swiper-button-prev:hover{background-image:url("../images/main/ico-swiper-prev-hover.svg");}
+      .swiper-button-next:hover{background-image:url("../images/main/ico-swiper-next-hover.svg");}
+    }
+  }
+  .cardList{
+    .item{
+      &:hover{border-color:transparent;background-color:#fff;box-shadow:0 8px 15px rgba(0,0,0,.16);}
+      button:hover{background-color: #003764;}
+    }
+  }
+  // 이북5도위원회
+  .ico{
+    &.icoFile:hover{background-image: url("../images/common/ico-file-hover.svg");}
+  }
+  .cardArea{
+    .item{
+      &:hover{
+        .imgArea{box-shadow:0 6px 6px rgba(0,0,0,.25);
+          img{transform:scale(1.1);}
+          &:after{opacity:1;visibility:visible}
+          >span{
+            &:nth-of-type(1){width:100%}
+            &:nth-of-type(2){height:100%}
+            &:nth-of-type(3){width:100%}
+            &:nth-of-type(4){height:100%}
+          }
+        }
+      }
+    }
+    &.type02{
+
+      .item:hover{box-shadow:0 6px 6px rgba(0,0,0,.25);
+        >span{
+          &:nth-of-type(1){width:100%}
+          &:nth-of-type(2){height:100%}
+          &:nth-of-type(3){width:100%}
+          &:nth-of-type(4){height:100%}
+        }
+        .imgBox:after{opacity:1;visibility:visible}
+      }
+    }
+    &.type03{
+      .item:hover{box-shadow:0 6px 6px rgba(0,0,0,.25);
+        >span{
+          &:nth-of-type(1){width:100%}
+          &:nth-of-type(2){height:100%}
+          &:nth-of-type(3){width:100%}
+          &:nth-of-type(4){height:100%}
+        }
+      }
+    }
+
+    &.type04{
+
+      .item:hover{box-shadow:0 6px 6px rgba(0,0,0,.25);
+        >span{
+          &:nth-of-type(1){width:100%}
+          &:nth-of-type(2){height:100%}
+          &:nth-of-type(3){width:100%}
+          &:nth-of-type(4){height:100%}
+        }
+        .imgBox:after{opacity:1;visibility:visible}
+      }
+    }
+  }
+  .orgMapArea {
+    .orgBox {
+      .item {
+        span{
+          &:hover{border:1px solid #575757;}
+        }
+        &.dep1{
+          strong{
+            &:hover{background:url("../images/menu01/bg-org-dep1-hover.svg")no-repeat -3px -4px;}
+          }
+        }
+        &.dep2{
+          strong{
+            &:hover{background:url("../images/menu01/bg-org-dep2-hover.svg")no-repeat -12px -4px;}
+          }
+        }
+        &.dep3{
+          strong{
+            &:hover{background:url("../images/menu01/bg-org-dep3-hover.svg")no-repeat -12px -4px;}
+          }
+        }
+        &.dep4{
+          strong{
+            &:hover{background:url("../images/menu01/bg-org-dep4-hover.svg")no-repeat -12px -4px;}
+          }
+        }
+      }
+    }
+  }
+
+  // 이북5도
+  .orgArea{
+    .orgBox{
+      .group{
+        a:hover{border: 1px solid #000;
+          .item{border-color:#000;
+            strong{color:#188FEF}
+          }
+        }
+      }
+    }
+  }
+
+
+  @media screen and (max-width:1420px){
+    #header{
+      #gnb:hover{
+        .dep2{padding:25px 20px;}
+      }
+    }
+  }
+  @media screen and (max-width:768px){
+    .orgMapArea {
+      .orgBox {
+        .item {
+          &.dep1{
+            strong{
+              &:hover{background-size: 147px 158.5px;background-position: center 1px;}
+            }
+          }
+          &.dep2{
+            strong{
+              &:hover{background:#003764}
+            }
+          }
+          &.dep3{
+            strong{
+              &:hover{background:#188FEF}
+            }
+          }
+          &.dep4{
+            strong{
+              &:hover{background:#97A0AA}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="ico-file" transform="translate(-1575 -1225)">
+    <circle id="bg" cx="20" cy="20" r="20" transform="translate(1575 1225)" fill="#dae2e2"/>
+    <g id="icon">
+      <rect id="area" width="40" height="40" transform="translate(1575 1225)" fill="none"/>
+      <path id="icon-2" data-name="icon" d="M701.221,261.642a5.553,5.553,0,0,0-5.547,5.547v10.323h1.568V267.189a3.979,3.979,0,1,1,7.959,0v11.352a2.507,2.507,0,1,1-5.015,0v-8.3a1.035,1.035,0,1,1,2.071,0v7.271h1.567v-7.271a2.6,2.6,0,1,0-5.206,0v8.3a4.075,4.075,0,1,0,8.15,0V267.189A5.553,5.553,0,0,0,701.221,261.642Z" transform="translate(851.66 1359.939) rotate(-30)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

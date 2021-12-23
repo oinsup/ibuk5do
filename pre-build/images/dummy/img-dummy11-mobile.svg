@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="685" height="2178.5" viewBox="0 0 685 2178.5">
+  <defs>
+    <filter id="bg" x="0" y="261" width="685" height="241" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="사각형_24144" data-name="사각형 24144" width="46" height="46" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+    <filter id="bg-2" x="0" y="0" width="685" height="278" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="img-dummy11-mobile" transform="translate(-30.5 -334.5)">
+    <g id="BODY" transform="translate(-648 33)">
+      <g id="card" transform="translate(154 1710)">
+        <g id="사각형_24135" data-name="사각형 24135" transform="translate(530 488)" fill="none" stroke="#d0d5d5" stroke-width="2">
+          <rect width="648" height="282" stroke="none"/>
+          <rect x="1" y="1" width="646" height="280" fill="none"/>
+        </g>
+        <text id="이북도민행사에_탈북민_참가_지원_등" data-name="이북도민행사에 탈북민 참가 지원 등" transform="translate(560 553)" fill="#003764" font-size="30" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.05em"><tspan x="0" y="0">이북도민행사에 탈북민 참가 지원 등</tspan></text>
+        <rect id="사각형_24137" data-name="사각형 24137" width="6" height="70" transform="translate(530 528)" fill="#188fef"/>
+        <g id="그룹_18692" data-name="그룹 18692">
+          <text id="_도민의_날_5월_통일_글짓기_그림그리기_대회_6월_이북도민_체육대회_10월_이북도민_통일미술대전_12월_등" data-name="※ 도민의 날(5월), 통일 글짓기 그림그리기 대회(6월), 이북도민 체육대회(10월), 이북도민 통일미술대전(12월) 등" transform="translate(560 666)" fill="#97a0aa" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="30">※ 도민의 날(5월), 통일 글짓기 그림그리기 대회(6월), 이북</tspan><tspan x="0" y="68">도민 체육대회(10월), 이북도민 통일미술대전(12월) 등</tspan></text>
+          <text id="이북도민과_함께하는_행사를_통해_화합과_소통의_기회를_가짐" data-name="이북도민과 함께하는 행사를 통해 화합과 소통의 기회를 가짐" transform="translate(560 582)" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.035em"><tspan x="0" y="30">이북도민과 함께하는 행사를 통해 화합과 소통의 기회를 가</tspan><tspan x="0" y="68">짐</tspan></text>
+        </g>
+      </g>
+      <g id="card-2" data-name="card" transform="translate(154 1257)">
+        <g id="사각형_24135-2" data-name="사각형 24135" transform="translate(530 488)" fill="none" stroke="#d0d5d5" stroke-width="2">
+          <rect width="648" height="433" stroke="none"/>
+          <rect x="1" y="1" width="646" height="431" fill="none"/>
+        </g>
+        <text id="이북도민과_탈북민간_가족결연_및_교류_지속화_사업" data-name="이북도민과 탈북민간 가족결연 및 교류 지속화 사업" transform="translate(560 553)" fill="#003764" font-size="30" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.05em"><tspan x="0" y="0">이북도민과 탈북민간 가족결연 및 교류 지속화 사업</tspan></text>
+        <rect id="사각형_24137-2" data-name="사각형 24137" width="6" height="70" transform="translate(530 528)" fill="#188fef"/>
+        <g id="그룹_18692-2" data-name="그룹 18692">
+          <text id="_매년_100여_쌍_결연_추진_04년_19현재_총_누적_1_827쌍_" data-name="※ 매년 100여 쌍 결연 추진(‘04년~‘19현재, 총 누적 1,827쌍)" transform="translate(560 666)" fill="#97a0aa" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="30">※ 매년 100여 쌍 결연 추진(‘04년~‘19현재, 총 누적 1,827</tspan><tspan x="0" y="68">쌍)</tspan></text>
+          <text id="이북도민-탈북주민_가족단위의_결연을_통해_정서적_안정감_부여" data-name="이북도민-탈북주민 가족단위의 결연을 통해 정서적 안정감 부여" transform="translate(560 582)" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.035em"><tspan x="0" y="30">이북도민-탈북주민 가족단위의 결연을 통해 정서적 안정감 </tspan><tspan x="0" y="68">부여</tspan></text>
+        </g>
+        <g id="그룹_18693" data-name="그룹 18693" transform="translate(0 225)">
+          <text id="_이북도민의_탈북민에_대한_인식_제고_및_유대감_형성" data-name="※ 이북도민의 탈북민에 대한 인식 제고 및 유대감 형성" transform="translate(560 629)" fill="#97a0aa" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="30">※ 이북도민의 탈북민에 대한 인식 제고 및 유대감 형성</tspan></text>
+          <text id="결연_가족을_대상으로_지속적_교류를_위한_지역문화_탐방_등_지원" data-name="결연 가족을 대상으로 지속적 교류를 위한 지역문화 탐방 등 지원" transform="translate(560 545)" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.035em"><tspan x="0" y="30">결연 가족을 대상으로 지속적 교류를 위한 지역문화 탐방 </tspan><tspan x="0" y="68">등 지원</tspan></text>
+        </g>
+      </g>
+      <g id="card-3" data-name="card" transform="translate(154 918)">
+        <g id="사각형_24135-3" data-name="사각형 24135" transform="translate(530 488)" fill="none" stroke="#d0d5d5" stroke-width="2">
+          <rect width="648" height="319" stroke="none"/>
+          <rect x="1" y="1" width="646" height="317" fill="none"/>
+        </g>
+        <text id="이북도민_기업체_연수_등_취업_지원" data-name="이북도민 기업체 연수 등 취업 지원" transform="translate(560 553)" fill="#003764" font-size="30" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.05em"><tspan x="0" y="0">이북도민 기업체 연수 등 취업 지원</tspan></text>
+        <rect id="사각형_24137-3" data-name="사각형 24137" width="6" height="70" transform="translate(530 528)" fill="#188fef"/>
+        <g id="그룹_18692-3" data-name="그룹 18692">
+          <text id="_연수기간_대상:_10여개_기업체_대상_1년간_실시_연_20여명" data-name="※ 연수기간/대상: 10여개 기업체 대상 1년간 실시/연 20여명" transform="translate(560 703)" fill="#97a0aa" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="30">※ 연수기간/대상: 10여개 기업체 대상 1년간 실시/연 20여</tspan><tspan x="0" y="68">명</tspan></text>
+          <text id="이북도민_운영_기업체_의료_영상_물류_사무직_등_활용한_연수_교육을_통해_북한이탈주민의_경제적_자립기반_형성_및_안정적인_직장생활_적응_지원" data-name="이북도민 운영 기업체(의료, 영상, 물류, 사무직 등)활용한 연수 교육을 통해 북한이탈주민의 경제적 자립기반 형성 및 안정적인 직장생활 적응 지원" transform="translate(560 582)" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.035em"><tspan x="0" y="30">이북도민 운영 기업체(의료, 영상, 물류, 사무직 등)활용한 </tspan><tspan x="0" y="68">연수 교육을 통해 북한이탈주민의 경제적 자립기반 형성 및 </tspan><tspan x="0" y="106">안정적인 직장생활 적응 지원</tspan></text>
+        </g>
+      </g>
+      <g id="card-4" data-name="card" transform="translate(154 354)">
+        <g id="사각형_24135-4" data-name="사각형 24135" transform="translate(530 488)" fill="none" stroke="#d0d5d5" stroke-width="2">
+          <rect width="648" height="544" stroke="none"/>
+          <rect x="1" y="1" width="646" height="542" fill="none"/>
+        </g>
+        <text id="탈북민_대상_맞춤형_교육과정_운영" data-name="탈북민 대상 맞춤형 교육과정 운영" transform="translate(560 553)" fill="#003764" font-size="30" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.05em"><tspan x="0" y="0">탈북민 대상 맞춤형 교육과정 운영</tspan></text>
+        <rect id="사각형_24137-4" data-name="사각형 24137" width="6" height="70" transform="translate(530 528)" fill="#188fef"/>
+        <g id="그룹_18692-4" data-name="그룹 18692">
+          <text id="_교육기간_대상:_상·하반기_각_10여개_과목_생활·경제·건강_등_연간_약_600여명" data-name="※ 교육기간/대상: 상·하반기 각 10여개 과목(생활·경제·건강 등)/연간 약 600여명" transform="translate(560 703)" fill="#97a0aa" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="30">※ 교육기간/대상: 상·하반기 각 10여개 과목(생활·경제·</tspan><tspan x="0" y="68">건강 등)/연간 약 600여명</tspan></text>
+          <text id="북한이탈주민_대상으로_남한사회_조기_정착_및_사회_활동_참여를_위한_이북전통문화계승_과정_한국문화정서_과정_등_운영" data-name="북한이탈주민 대상으로 남한사회 조기 정착 및 사회 활동 참여를 위한 이북전통문화계승 과정, 한국문화정서 과정 등 운영" transform="translate(560 582)" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.035em"><tspan x="0" y="30">북한이탈주민 대상으로 남한사회 조기 정착 및 사회 활동 </tspan><tspan x="0" y="68">참여를 위한 이북전통문화계승 과정, 한국문화정서 과정 </tspan><tspan x="0" y="106">등 운영</tspan></text>
+        </g>
+        <g id="그룹_18693-2" data-name="그룹 18693" transform="translate(0 225)">
+          <text id="_교육기간_대상:_방학기간_중_5일_탈북민_가정_청소년_20여명" data-name="※ 교육기간/대상: 방학기간 중(5일)/탈북민 가정 청소년 20여명" transform="translate(560 703)" fill="#97a0aa" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="30">※ 교육기간/대상: 방학기간 중(5일)/탈북민 가정 청소년 20</tspan><tspan x="0" y="68">여명</tspan></text>
+          <text id="탈북학생_대상으로_진로_선택_취업_면접_방법_교육_직장_적응_프로그램_등을_운영_취업_경쟁력_향상_지원_등_후계세대_양성과정을_통한_통일리더로_육성" data-name="탈북학생 대상으로 진로 선택, 취업 면접 방법 교육, 직장 적응, 프로그램 등을 운영, 취업 경쟁력 향상 지원 등 후계세대 양성과정을 통한 통일리더로 육성" transform="translate(560 582)" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.035em"><tspan x="0" y="30">탈북학생 대상으로 진로 선택, 취업 면접 방법 교육, 직장 적</tspan><tspan x="0" y="68">응, 프로그램 등을 운영, 취업 경쟁력 향상 지원 등 후계세대 </tspan><tspan x="0" y="106">양성과정을 통한 통일리더로 육성</tspan></text>
+        </g>
+      </g>
+      <g id="_2" data-name="2" transform="translate(164 -748)">
+        <g transform="matrix(1, 0, 0, 1, 514.5, 1049.5)" filter="url(#bg)">
+          <rect id="bg-3" data-name="bg" width="638" height="194" transform="translate(15.5 276.5)" fill="#fff" stroke="#d0d5d5" stroke-width="2"/>
+        </g>
+        <text id="_이북5도_등에_관한_특별조치법_제4조_2호_나목_북한이탈주민과_이북도민의_교류_사업_지원" data-name="「이북5도 등에 관한 특별조치법」 제4조 2호 나목 * 북한이탈주민과 이북도민의 교류 사업 지원" transform="translate(650 1416)" fill="#575757" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="30">「이북5도 등에 관한 특별조치법」 제4조 2호 나</tspan><tspan x="0" y="68">목 * 북한이탈주민과 이북도민의 교류 사업 지원</tspan></text>
+        <text id="지원_근거" data-name="지원 근거" transform="translate(650 1395)" font-size="34" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-weight="500" letter-spacing="-0.05em" opacity="0.99"><tspan x="0" y="0">지원 근거</tspan></text>
+        <rect id="bg-4" data-name="bg" width="100" height="100" transform="translate(520 1316)" fill="#188fef"/>
+        <g id="icon" transform="translate(540 1336)">
+          <rect id="area" width="60" height="60" fill="none"/>
+          <g id="그룹_18691" data-name="그룹 18691" transform="translate(7 7)">
+            <g id="그룹_18690" data-name="그룹 18690" clip-path="url(#clip-path)">
+              <path id="패스_8638" data-name="패스 8638" d="M.986,46A.987.987,0,0,1,0,45.014V28.871a.987.987,0,0,1,.986-.986H6.856a.481.481,0,0,0,.482-.482V23a.988.988,0,0,1,.986-.986h2.935a.481.481,0,0,0,.482-.482V18.6a.481.481,0,0,0-.482-.482H9.792a.986.986,0,1,1,0-1.972h3.486a.482.482,0,0,0,.482-.482v-.55a9.294,9.294,0,0,1,7.846-9.123.482.482,0,0,0,.408-.477V.986a.986.986,0,1,1,1.972,0V5.512a.483.483,0,0,0,.409.477,9.294,9.294,0,0,1,7.846,9.123v.55a.482.482,0,0,0,.482.482h4.953a.986.986,0,0,1,0,1.972H34.74a.482.482,0,0,0-.482.482v2.935a.482.482,0,0,0,.482.482h2.936a.987.987,0,0,1,.986.986v4.4a.482.482,0,0,0,.482.482h5.87a.988.988,0,0,1,.986.986V45.014a.988.988,0,0,1-.986.986ZM39.144,29.856a.482.482,0,0,0-.482.482V43.547a.482.482,0,0,0,.482.482h4.4a.482.482,0,0,0,.482-.482V30.338a.482.482,0,0,0-.482-.482ZM9.792,23.986a.481.481,0,0,0-.482.482V43.547a.482.482,0,0,0,.482.482H36.208a.482.482,0,0,0,.482-.482V24.468a.481.481,0,0,0-.482-.482Zm-7.338,5.87a.482.482,0,0,0-.482.482V43.547a.482.482,0,0,0,.482.482h4.4a.482.482,0,0,0,.482-.482V30.338a.482.482,0,0,0-.482-.482Zm11.741-11.74a.481.481,0,0,0-.482.482v2.935a.481.481,0,0,0,.482.482H31.806a.481.481,0,0,0,.482-.482V18.6a.481.481,0,0,0-.482-.482ZM23,7.842a7.278,7.278,0,0,0-7.269,7.269v.55a.482.482,0,0,0,.482.482H29.788a.482.482,0,0,0,.482-.482v-.55A7.278,7.278,0,0,0,23,7.842" fill="#fff" stroke="#fff" stroke-width="1"/>
+              <path id="패스_8639" data-name="패스 8639" d="M19.937,52.253a.988.988,0,0,1-.986-.986V40.994a.986.986,0,0,1,1.972,0V51.267a.988.988,0,0,1-.986.986" transform="translate(-5.743 -12.124)" fill="#fff" stroke="#fff" stroke-width="1"/>
+              <path id="패스_8640" data-name="패스 8640" d="M28.36,52.253a.988.988,0,0,1-.986-.986V40.994a.986.986,0,0,1,1.972,0V51.267a.988.988,0,0,1-.986.986" transform="translate(-8.295 -12.124)" fill="#fff" stroke="#fff" stroke-width="1"/>
+              <path id="패스_8641" data-name="패스 8641" d="M36.782,52.253a.988.988,0,0,1-.986-.986V40.994a.986.986,0,1,1,1.972,0V51.267a.987.987,0,0,1-.986.986" transform="translate(-10.847 -12.124)" fill="#fff" stroke="#fff" stroke-width="1"/>
+              <path id="패스_8642" data-name="패스 8642" d="M45.205,52.253a.988.988,0,0,1-.986-.986V40.994a.986.986,0,1,1,1.972,0V51.267a.988.988,0,0,1-.986.986" transform="translate(-13.4 -12.124)" fill="#fff" stroke="#fff" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="_1" data-name="1" transform="translate(164 -1009)">
+        <g transform="matrix(1, 0, 0, 1, 514.5, 1310.5)" filter="url(#bg-2)">
+          <rect id="bg-5" data-name="bg" width="638" height="231" transform="translate(15.5 15.5)" fill="#fff" stroke="#d0d5d5" stroke-width="2"/>
+        </g>
+        <text id="북한이탈주민을_이북도민_실향민_과_교류하게_하여_정서적_동질감과_소속감을_형성함으로써_남한사회에서_안정적으로_정착할_수_있도록_지원" data-name="북한이탈주민을 이북도민(실향민)과 교류하게 하여 정서적 동질감과 소속감을 형성함으로써 남한사회에서 안정적으로 정착할 수 있도록 지원" transform="translate(650 1416)" fill="#575757" font-size="26" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.05em"><tspan x="0" y="30">북한이탈주민을 이북도민(실향민)과 교류하게 하</tspan><tspan x="0" y="68">여 정서적 동질감과 소속감을 형성함으로써 남한</tspan><tspan x="0" y="106">사회에서 안정적으로 정착할 수 있도록 지원</tspan></text>
+        <text id="지원_목적" data-name="지원 목적" transform="translate(650 1395)" font-size="34" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-weight="500" letter-spacing="-0.05em" opacity="0.99"><tspan x="0" y="0">지원 목적</tspan></text>
+        <rect id="bg-6" data-name="bg" width="100" height="100" transform="translate(520 1316)" fill="#188fef"/>
+        <g id="icon-2" data-name="icon" transform="translate(540 1336)">
+          <rect id="area-2" data-name="area" width="60" height="60" fill="none"/>
+          <g id="그룹_18689" data-name="그룹 18689" transform="translate(7 7)">
+            <path id="패스_8630" data-name="패스 8630" d="M43.946,16.412c-1.5,0-2.678-1.717-2.678-3.908,0-1.958.976-3.081,2.678-3.081s2.677,1.123,2.677,3.081c0,2.191-1.176,3.908-2.677,3.908m0-5.783c-.4,0-1.471,0-1.471,1.875,0,1.592.776,2.7,1.471,2.7s1.471-1.109,1.471-2.7c0-1.875-1.068-1.875-1.471-1.875" transform="translate(-12.506 -2.855)" fill="#fff" stroke="#fff" stroke-width="1"/>
+            <path id="패스_8631" data-name="패스 8631" d="M37.223,27.613a.6.6,0,0,1-.6-.548c-.371-4.029,1.848-5.7,3.074-6.026a.571.571,0,0,1,.153-.02.6.6,0,0,1,.162,1.184c-.231.07-2.2.758-2.224,3.906a.294.294,0,0,0,.295.3h8.95a.3.3,0,0,0,.295-.3c-.029-3.224-2.132-3.879-2.221-3.905a.6.6,0,0,1,.161-1.186.584.584,0,0,1,.151.02c1.225.322,3.444,2,3.074,6.026a.6.6,0,0,1-.6.548Z" transform="translate(-11.085 -6.369)" fill="#fff" stroke="#fff" stroke-width="1"/>
+            <path id="패스_8632" data-name="패스 8632" d="M45.469,45.706a3.4,3.4,0,0,0-3.4-2.206,7.523,7.523,0,0,0-1.846.257c-.854.218-1.733.465-2.582.7l-.027.008a49.759,49.759,0,0,1-5.97,1.413.506.506,0,0,1-.072.006.481.481,0,0,1-.475-.407l-.016-.106c-.008-.062-.017-.125-.031-.188-.427-1.857-2.217-3.842-5.963-3.842a12.109,12.109,0,0,0-1.536.1,11.3,11.3,0,0,1-1.4.1,3.97,3.97,0,0,1-3.6-1.722,4.664,4.664,0,0,0-1.528-1.349,6.177,6.177,0,0,0-2.679-.533,15.344,15.344,0,0,0-5.623,1.293.482.482,0,0,1-.67-.443V34.677a.988.988,0,0,0-.986-.986H.986A.988.988,0,0,0,0,34.677V55.224a.987.987,0,0,0,.986.986H7.06a.987.987,0,0,0,.986-.986V52.363a.481.481,0,0,1,.482-.482.468.468,0,0,1,.148.024c4.01,1.294,13.69,4.3,16.964,4.3,3.494,0,15.991-4.537,19.57-6.829.353-.226,1.426-.913.26-3.674M6.074,53.756a.482.482,0,0,1-.482.482H2.453a.481.481,0,0,1-.482-.482V36.145a.482.482,0,0,1,.482-.482H5.592a.482.482,0,0,1,.482.482Zm37.682-5.8c-3.932,2.289-15.446,6.28-18.117,6.28-3.374,0-15.85-4.042-17.261-4.5a.482.482,0,0,1-.332-.458V42.035a.482.482,0,0,1,.251-.423,13.851,13.851,0,0,1,6.046-1.7,4.265,4.265,0,0,1,1.824.342,3.142,3.142,0,0,1,.856.821l.016.019a5.827,5.827,0,0,0,5.14,2.423,12.757,12.757,0,0,0,1.616-.11,10.29,10.29,0,0,1,1.306-.089,4.417,4.417,0,0,1,3.484,1.252A2.436,2.436,0,0,1,29.17,45.9a.482.482,0,0,1-.309.5l-.6.229a12.381,12.381,0,0,1-3.536,1.01,1.539,1.539,0,0,1-.358-.038c-.747-.185-2.929-.744-6.491-1.662h0l-2.262-.584-.013,0-.1-.026,0,.01a.98.98,0,0,0-.487,1.886l0,.012,2.355.608.017,0c2.394.618,5.576,1.437,6.514,1.669a3.34,3.34,0,0,0,.808.091,13.2,13.2,0,0,0,4.272-1.137l.045-.017c.356-.139.693-.27.981-.365h0c.029-.015.059-.031.09-.043A.471.471,0,0,1,30.237,48a39.873,39.873,0,0,0,7.9-1.634c.952-.268,1.746-.489,2.567-.7a5.635,5.635,0,0,1,1.359-.2,1.48,1.48,0,0,1,1.584,1.011,6.075,6.075,0,0,1,.331.96.482.482,0,0,1-.227.523" transform="translate(0 -10.209)" fill="#fff" stroke="#fff" stroke-width="1"/>
+            <path id="패스_8633" data-name="패스 8633" d="M39.3,28.389a14.376,14.376,0,0,1-13.542-9.463,14.522,14.522,0,0,1-.463-1.583.986.986,0,1,1,1.922-.442,12.406,12.406,0,0,0,24.47-2.706A12.319,12.319,0,0,0,39.3,1.972a12.464,12.464,0,0,0-4.131.7.967.967,0,0,1-.327.057.988.988,0,0,1-.323-1.92A14.487,14.487,0,0,1,39.3,0,14.294,14.294,0,0,1,53.657,14.194,14.294,14.294,0,0,1,39.3,28.389" transform="translate(-7.657)" fill="#fff" stroke="#fff" stroke-width="1"/>
+            <path id="패스_8634" data-name="패스 8634" d="M26.254,5.546a.988.988,0,0,1-.986-.986V3.092a.986.986,0,1,1,1.972,0V4.559a.988.988,0,0,1-.986.986" transform="translate(-7.657 -0.638)" fill="#fff" stroke="#fff" stroke-width="1"/>
+            <path id="패스_8635" data-name="패스 8635" d="M26.254,16.074a.988.988,0,0,1-.986-.986V13.62a.986.986,0,1,1,1.972,0v1.467a.988.988,0,0,1-.986.986" transform="translate(-7.657 -3.829)" fill="#fff" stroke="#fff" stroke-width="1"/>
+            <path id="패스_8636" data-name="패스 8636" d="M30.465,10.395a.986.986,0,1,1,0-1.972h1.468a.986.986,0,0,1,0,1.972Z" transform="translate(-8.933 -2.552)" fill="#fff" stroke="#fff" stroke-width="1"/>
+            <path id="패스_8637" data-name="패스 8637" d="M19.937,10.395a.986.986,0,1,1,0-1.972h1.468a.986.986,0,0,1,0,1.972Z" transform="translate(-5.743 -2.552)" fill="#fff" stroke="#fff" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

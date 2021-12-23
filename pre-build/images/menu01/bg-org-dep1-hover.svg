@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156" height="170.418" viewBox="0 0 156 170.418">
+  <defs>
+    <filter id="shadow" x="0" y="0" width="156" height="170.418" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="위원장" transform="translate(3 5.209)">
+    <g id="bg" transform="translate(-625.428 -513)">
+      <path id="패스_8171" data-name="패스 8171" d="M345.5,870.3v52.8a19.2,19.2,0,0,0,9.612,16.629l45.777,26.4a19.243,19.243,0,0,0,19.223,0l45.777-26.4A19.2,19.2,0,0,0,475.5,923.1V870.3a19.2,19.2,0,0,0-9.612-16.63l-45.777-26.4a19.243,19.243,0,0,0-19.223,0l-45.777,26.4A19.2,19.2,0,0,0,345.5,870.3Z" transform="translate(299.928 -301.699)" fill="#188fef" opacity="0.25"/>
+      <g transform="matrix(1, 0, 0, 1, 622.43, 507.79)" filter="url(#shadow)">
+        <path id="shadow-2" data-name="shadow" d="M345.5,870.3v52.8a19.2,19.2,0,0,0,9.612,16.629l45.777,26.4a19.243,19.243,0,0,0,19.223,0l45.777-26.4A19.2,19.2,0,0,0,475.5,923.1V870.3a19.2,19.2,0,0,0-9.612-16.63l-45.777-26.4a19.243,19.243,0,0,0-19.223,0l-45.777,26.4A19.2,19.2,0,0,0,345.5,870.3Z" transform="translate(-332.5 -819.49)" fill="#f5fbfb" stroke="#188fef" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+      <path id="패스_8169" data-name="패스 8169" d="M345.5,870.3v52.8a19.2,19.2,0,0,0,9.612,16.629l45.777,26.4a19.243,19.243,0,0,0,19.223,0l45.777-26.4A19.2,19.2,0,0,0,475.5,923.1V870.3a19.2,19.2,0,0,0-9.612-16.63l-45.777-26.4a19.243,19.243,0,0,0-19.223,0l-45.777,26.4A19.2,19.2,0,0,0,345.5,870.3Z" transform="translate(289.928 -311.699)" fill="#f5fbfb" stroke="#188fef" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="패스_8172" data-name="패스 8172" d="M345.5,870.3v52.8a19.2,19.2,0,0,0,9.612,16.629l45.777,26.4a19.243,19.243,0,0,0,19.223,0l45.777-26.4A19.2,19.2,0,0,0,475.5,923.1V870.3a19.2,19.2,0,0,0-9.612-16.63l-45.777-26.4a19.243,19.243,0,0,0-19.223,0l-45.777,26.4A19.2,19.2,0,0,0,345.5,870.3Z" transform="translate(279.928 -301.699)" fill="none" opacity="0.25"/>
+    </g>
+    <g id="_" data-name="&gt;" transform="translate(63 108)">
+      <g id="bg-2" data-name="bg" fill="#188fef" stroke="#188fef" stroke-width="1">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="11.5" fill="none"/>
+      </g>
+      <g id="icon" transform="translate(24) rotate(90)">
+        <rect id="area" width="24" height="24" fill="none"/>
+        <path id="패스_250" data-name="패스 250" d="M0,3.12,3.12,0,6.24,3.12" transform="translate(8.88 10.44)" fill="none" stroke="#fff" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

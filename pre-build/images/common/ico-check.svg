@@ -1,0 +1,6 @@
+<svg id="ico-check" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="check_box" data-name="check box" fill="#fff" stroke="#abb0b0" stroke-width="1">
+    <rect width="18" height="18" stroke="none"/>
+    <rect x="0.5" y="0.5" width="17" height="17" fill="none"/>
+  </g>
+</svg>
